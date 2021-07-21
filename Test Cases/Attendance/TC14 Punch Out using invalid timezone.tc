@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14 Punch Out using invalid timezone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd5f0b0b-4357-4c14-a3e0-8ec5130c4118</testCaseGuid>
+</TestCaseEntity>

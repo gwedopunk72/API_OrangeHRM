@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09Punch In using invalid timezone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d24ae04c-ca8b-44f3-a06b-8bab846518be</testCaseGuid>
+</TestCaseEntity>

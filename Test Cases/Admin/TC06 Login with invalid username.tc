@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 Login with invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>672e5e3e-cb3b-427c-90f4-5e45cb39c3d6</testCaseGuid>
+</TestCaseEntity>
